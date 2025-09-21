@@ -19,15 +19,15 @@ Este backend implementa uma API REST com Flask, SQLite e Flask-RESTX, oferecendo
 
 ## 📂 Estrutura
 Marco_Bernasconi_PUC_MVP_backend/
-├─ app.py
-├─ extensions.py
-├─ models.py
-├─ resources/
+├─app.py
+├─extensions.py
+├─models.py
+├─resources/
 │ ├─ users.py
 │ └─ notes.py
-├─ requirements.txt
-├─ .gitignore
-└─ README.md
+├─requirements.txt
+├─.gitignore
+└─README.md
 
 ---
 
