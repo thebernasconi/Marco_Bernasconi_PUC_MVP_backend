@@ -34,7 +34,7 @@ Marco_Bernasconi_PUC_MVP_backend/
 
 1. Clone o repositório:
 ```powershell
-git clone https://github.com/<usuario>/Marco_Bernasconi_PUC_MVP_backend.git
+git clone https://github.com/thebernasconi/Marco_Bernasconi_PUC_MVP_backend.git
 cd Marco_Bernasconi_PUC_MVP_backend
 ```
 2. Crie e ative o ambiente virtual:
