@@ -26,7 +26,6 @@ Marco_Bernasconi_PUC_MVP_backend/
 │ ├─ users.py
 │ └─ notes.py
 ├─requirements.txt
-├─.gitignore
 └─README.md
 
 ---
