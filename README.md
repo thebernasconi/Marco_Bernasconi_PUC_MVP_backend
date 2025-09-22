@@ -62,19 +62,19 @@ Abra no navegador e buque por "http://127.0.0.1:5000/docs".
 
 **Usuários**
 
-GET /users/ → lista todos
-POST /users/ → cria usuário
-GET /users/{id} → busca usuário
-PUT /users/{id} → atualiza usuário
-DELETE /users/{id} → apaga usuário (cascade apaga notas)
+- GET /users/ → lista todos
+- POST /users/ → cria usuário
+- GET /users/{id} → busca usuário
+- PUT /users/{id} → atualiza usuário
+- DELETE /users/{id} → apaga usuário (cascade apaga notas)
 
 **Notas**
 
-GET /notes/ → lista todas
-POST /notes/ → cria nota
-GET /notes/{id} → busca nota
-PUT /notes/{id} → atualiza nota
-DELETE /notes/{id} → apaga nota
+- GET /notes/ → lista todas
+- POST /notes/ → cria nota
+- GET /notes/{id} → busca nota
+- PUT /notes/{id} → atualiza nota
+- DELETE /notes/{id} → apaga nota
 
 ---
 
