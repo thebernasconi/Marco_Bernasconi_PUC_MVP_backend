@@ -35,7 +35,7 @@ Marco_Bernasconi_PUC_MVP_backend/
 1. Clone o repositório:
 ```powershell
 git clone https://github.com/thebernasconi/Marco_Bernasconi_PUC_MVP_backend.git
-cd Marco_Bernasconi_PUC_MVP_backend
+cd <path do arquivo>
 ```
 2. Crie e ative o ambiente virtual:
 ```powershell
@@ -56,7 +56,9 @@ O backend ficará disponível em "http://127.0.0.1:5000".
 
 ## 📖 Documentação (Swagger)
 
-Abra no navegador e buque por "http://127.0.0.1:5000/docs".
+Abra no navegador e busque por "http://127.0.0.1:5000/docs".
+
+Os JSONS criados serão visívies em "http://127.0.0.1:5000/notes/" e "http://127.0.0.1:5000/users/".
 
 ## 📌 Endpoints principais
 
