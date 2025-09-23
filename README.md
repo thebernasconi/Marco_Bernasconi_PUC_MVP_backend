@@ -1,9 +1,13 @@
 # MVP PUC Desenvolvimento FullStack - Marco Bernasconi
 
+Este é um projeto de desenvolvimento fullstack.
+Se trata de uma aplicação para poder fazer anotações que aparecerão para o usuário em formato de cards.
+O usuário se cadastra e tem acesso somente às suas anotações, podendo criar, editar e excluir as mesmas.
+
 # AnotAí — Backend (Flask + SQLite + Flask-RESTX)
 
 **Repositório do backend do projeto AnotAí (PUC — MVP Fullstack).**  
-Este backend implementa uma API REST com Flask, SQLite e Flask-RESTX, oferecendo CRUD de **Usuários** e **Notas (Notes)**.  
+Este backend implementa uma API REST com Flask, SQLite e Flask-RESTX, oferecendo CRUD de **Usuários** e **Notas (Notes)**.
 
 ---
 
